@@ -11,8 +11,8 @@ This week focused on **building a complete machine learning workflow** using the
 ```
 
 feature-selection-and-model-selection/
-├── notebooks/
-│   └── titanic\_modeling.ipynb
+├── titanic_\dataset\_modeling.ipynb
+├── LICENSE
 └── README.md
 
 ```
