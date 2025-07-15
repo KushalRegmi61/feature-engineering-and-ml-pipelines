@@ -11,7 +11,7 @@ This week focused on **building a complete machine learning workflow** using the
 ```
 
 feature-selection-and-model-selection/
-├── titanic_\dataset\_modeling.ipynb
+├── titanic_dataset_modeling.ipynb
 ├── LICENSE
 └── README.md
 
