@@ -61,6 +61,8 @@ feature-selection-and-model-selection/
   * Trains an **XGBoost Classifier** using Bayesian Optimization (`BayesSearchCV`).
     - Tuned over `max_depth`, `n_estimators`, `learning_rate`
     - Used log-uniform distribution for learning rate and ran 20 iterations
+    - Best XGBoost Params: OrderedDict({'learning_rate': 0.06350950899265852, 'max_depth': 7, 'n_estimators': 68})
+    - Best CV Score: 0.8394890465130878
 
 * **Key takeaway**: Proper feature engineering combined with targeted hyperparameter tuning leads to more accurate and generalizable models, even with traditional ML algorithms.
 
