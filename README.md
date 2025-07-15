@@ -1,3 +1,21 @@
+# Week 9: Feature Engineering & Model Selection
+
+**Fusemachines AI Fellowship**
+
+This week focused on **building a complete machine learning workflow** using the Titanic dataset—from preprocessing and feature engineering to model tuning and evaluation. The main goal was to extract meaningful features from structured data and compare the performance of different models through systematic hyperparameter optimization.
+
+---
+
+## Repository Structure
+
+```
+
+feature-selection-and-model-selection/
+├── notebooks/
+│   └── titanic\_modeling.ipynb
+└── README.md
+
+```
 
 ---
 
@@ -57,3 +75,5 @@ This week emphasized the **importance of preprocessing and engineered features**
 ## Links
 
 * [Main Fellowship Repository](https://github.com/KushalRegmi61/AI_Fellowship_FuseMachines)
+
+
