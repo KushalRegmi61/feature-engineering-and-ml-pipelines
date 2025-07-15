@@ -1,4 +1,4 @@
-# Week 9: Feature Engineering & Model Selection
+# Week 8: Feature Engineering & Model Selection
 
 **Fusemachines AI Fellowship**
 
